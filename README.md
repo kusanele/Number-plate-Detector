@@ -26,10 +26,23 @@ To cater to this problem,an efficient deep learning model such as this one is us
 
 The proposed deep learning model uses ImageAI library to make the training process easier
 
+# Data set Preparation
+This is the data that was used ---
 
 
 # Installation
+
 # Deployment 
+
 # Technologies Used
+
+Deep Laerning 
+This system uses Convolutional Neural network(CNN) to detect the cars and number plate
+This system also uses ImageAI library to make the process easier and also efficient.
+It also uses several image processing techniques to preprocess the obtained frames. To annotate the images, an efficient annotation tool called LabelImg is used. The whole system is implemented using python programming language.
+
+Tensorflow framework with the Keras deep learning library was also used for this project 
+
 # Team
+
 # License
