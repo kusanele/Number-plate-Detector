@@ -53,7 +53,8 @@ Tensorflow framework with the Keras deep learning library was also used for this
 
 # Team
 [Marble Kusanele Mpofu](https://github.com/kusanele/)
-Jean 
+
+[Jean](https://github.com/jean-on-hub/)
 
 # License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
