@@ -31,10 +31,18 @@ This is the data that was used ---
 
 
 # Installation
+The Code is written in Python 3.10
+To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install lmageAI
+```
 
 # Deployment 
 
 # Technologies Used
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fjupyter.org%2Fassets%2Fshare.png&imgrefurl=https%3A%2F%2Fjupyter.org%2Ftry&tbnid=br6wrKbxgkz7rM&vet=12ahUKEwiIvtTg5-H5AhUSXxoKHbI8Ad4QMygIegUIARDMAQ..i&docid=M1b3uX4_0Stq-M&w=1200&h=630&q=python%20notebook%20svg&ved=2ahUKEwiIvtTg5-H5AhUSXxoKHbI8Ad4QMygIegUIARDMAQ)
 
 Deep Laerning 
 This system uses Convolutional Neural network(CNN) to detect the cars and number plate
@@ -46,3 +54,13 @@ Tensorflow framework with the Keras deep learning library was also used for this
 # Team
 
 # License
+[![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
+
+
+Copyright 2022 Marble Kusanele Mpofu
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
