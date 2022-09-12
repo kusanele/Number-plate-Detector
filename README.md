@@ -11,6 +11,9 @@
   * [License](#license)
 
 # Demo
+![__results___25_0](https://user-images.githubusercontent.com/100205503/189724131-43c10507-7eb6-4dc8-b596-1fd1344daf8c.png)
+
+
 # Overview 
 Automatic License Plate Recognition (ALPR), As the name suggests, is a technology that uses the power of AI and deep learning to automatically detect and recognize the characters of a vehicle's license plate.
 ![Untitled](https://user-images.githubusercontent.com/100205503/189514680-2f7a55a2-d13a-4ec5-aa40-80df537a1873.jpg)
