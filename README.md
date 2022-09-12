@@ -5,7 +5,7 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement](#deployement)
+  * [Deployment](#deployment)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
   * [License](#license)
@@ -16,5 +16,6 @@
 # Motivation
 # Installation
 # Deployment 
+# Technologies Used
 # Team
 # License
