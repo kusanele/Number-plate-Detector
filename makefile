@@ -4,10 +4,10 @@ install:
 		pip install -r requirements.txt
 format:
     # #format code
-	black *.py 
+	# black *.py 
 lint:
     # #flake8 or #pylint
-	pylint --disable=R,C *.py 
+	# pylint --disable=R,C *.py 
 test:
 	# python -m pytest -vv  --cov=main test_*.py
 deploy:
