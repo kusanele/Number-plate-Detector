@@ -54,7 +54,6 @@ It also uses several image processing techniques to preprocess the obtained fram
 
 ![output-onlinepngtools (6)](https://user-images.githubusercontent.com/100205503/190846119-7a0f82e4-912d-4fd1-97f6-1aa1414ab996.png)
 
-
 Tensorflow framework with the Keras deep learning library was also used for this project 
 
 # Team
