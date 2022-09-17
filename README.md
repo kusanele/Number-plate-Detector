@@ -57,6 +57,17 @@ It also uses several image processing techniques to preprocess the obtained fram
 Tensorflow framework with the Keras deep learning library was also used for this project 
 
 # Team
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 [Marble Kusanele Mpofu](https://github.com/kusanele/)
 
 [Jean](https://github.com/jean-on-hub/)
