@@ -69,7 +69,7 @@ Tensorflow framework with the Keras deep learning library was also used for this
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [Marble Kusanele Mpofu](https://github.com/kusanele/)
