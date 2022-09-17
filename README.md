@@ -52,6 +52,9 @@ This system uses Convolutional Neural network(CNN) to detect the cars and number
 This system also uses ImageAI library to make the process easier and also efficient.
 It also uses several image processing techniques to preprocess the obtained frames. To annotate the images, an efficient annotation tool called Labeling is used. The whole system is implemented using python programming language.
 
+![output-onlinepngtools (6)](https://user-images.githubusercontent.com/100205503/190846119-7a0f82e4-912d-4fd1-97f6-1aa1414ab996.png)
+
+
 Tensorflow framework with the Keras deep learning library was also used for this project 
 
 # Team
