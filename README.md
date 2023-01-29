@@ -39,6 +39,9 @@ To install the required packages and libraries, run this command in the project 
 ```bash
 pip install lmageAI
 ```
+```python
+pip install lmageAI
+```
 
 # Deployment 
 
